@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-11-10 14:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2021-10-26 04:33:09 +0000"
@@ -1394,7 +1400,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-11-04 17:20:47 +0000",
-      "minecraft:soul_sand_valley": "2021-10-27 04:22:43 +0000"
+      "minecraft:soul_sand_valley": "2021-10-27 04:22:43 +0000",
+      "minecraft:nether_wastes": "2021-11-10 15:04:03 +0000"
     },
     "done": false
   },
@@ -2277,6 +2284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-11-10 14:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-26 05:46:30 +0000"
@@ -2523,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-11-10 14:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-10-26 05:39:47 +0000"
@@ -2700,6 +2719,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-10-29 04:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-11-10 14:02:22 +0000"
     },
     "done": true
   },
