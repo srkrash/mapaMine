@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-11-25 03:34:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2021-10-21 03:30:23 -0300"
@@ -410,6 +416,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2021-10-29 01:35:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-11-25 03:34:23 -0300"
     },
     "done": true
   },
@@ -780,8 +792,10 @@
       "minecraft:spider": "2021-10-19 20:23:44 -0300",
       "minecraft:creeper": "2021-10-19 20:13:05 -0300",
       "minecraft:evoker": "2021-11-11 21:34:36 -0300",
+      "minecraft:slime": "2021-11-25 03:03:12 -0300",
       "minecraft:phantom": "2021-10-25 03:49:44 -0300",
       "minecraft:witch": "2021-10-21 02:20:34 -0300",
+      "minecraft:husk": "2021-11-26 04:23:09 -0300",
       "minecraft:enderman": "2021-10-19 21:09:23 -0300",
       "minecraft:silverfish": "2021-10-21 18:40:58 -0300",
       "minecraft:zombie": "2021-10-19 20:27:46 -0300",
@@ -2461,6 +2475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-11-25 03:34:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-10-19 19:55:51 -0300"
@@ -2500,6 +2520,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2021-10-26 02:37:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-11-25 03:34:23 -0300"
     },
     "done": true
   },
@@ -3279,6 +3305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-11-25 03:34:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2021-10-19 20:38:58 -0300"
@@ -3438,6 +3470,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2021-11-11 21:18:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-11-26 04:50:55 -0300"
     },
     "done": true
   },
@@ -3834,6 +3872,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-10-28 20:59:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-11-25 03:34:23 -0300"
     },
     "done": true
   },
