@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-04-05 16:27:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-10-19 21:36:10 -0300"
@@ -910,6 +916,7 @@
       "minecraft:piglin": "2021-12-28 20:29:19 -0300",
       "minecraft:enderman": "2021-10-19 21:09:23 -0300",
       "minecraft:silverfish": "2021-10-21 18:40:58 -0300",
+      "minecraft:vex": "2022-04-05 16:43:05 -0300",
       "minecraft:zombie": "2021-10-19 20:27:46 -0300",
       "minecraft:drowned": "2021-10-19 20:55:39 -0300",
       "minecraft:zombie_villager": "2021-10-21 02:50:39 -0300"
@@ -1648,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-04-05 16:42:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2021-10-19 20:21:57 -0300"
@@ -2080,6 +2093,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2021-12-29 01:15:57 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2022-04-05 16:27:42 -0300"
     },
     "done": true
   },
@@ -2615,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-04-05 19:50:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-10-19 20:13:07 -0300"
@@ -2994,6 +3019,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-12-29 18:01:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-04-05 19:50:09 -0300"
     },
     "done": true
   },
@@ -4353,6 +4384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2022-04-05 19:14:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2021-11-11 20:50:52 -0300"
@@ -4449,5 +4486,5 @@
     },
     "done": true
   },
-  "DataVersion": 2860
+  "DataVersion": 2975
 }
