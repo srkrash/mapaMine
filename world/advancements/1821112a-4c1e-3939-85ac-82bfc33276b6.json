@@ -1,0 +1,21 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-04-20 18:19:42 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2022-04-20 18:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-04-20 18:19:42 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
